@@ -15,11 +15,11 @@ import java.util.Date;
 import java.util.UUID;
 public class JWTToken {
 
-    public static String EMAIL = "ABHISHEKKR8799@GMAIL.COM";
+    public static String EMAIL = "AXXXXXXXXX@GMAIL.COM";
     public static String NAME = "Abhishek Kumar";
     public static String SUBJECT = "subject";
 
-    public static String SECRET_KEY = "HGHGDHGDHFGSD786JHhg7nbhfjhhjvjdfhbzdfsdgfhsgdjfvdshbgjxgbcgxc" ;
+    public static String SECRET_KEY = "ghfhsghgfjsdfdhdgjhg786JHhg7nbhfjhhjvjdfhbzdfsdgfhsgdjfvdshbgjxgbcgxc" ;
 
 
     public static String GenerateRSAJWTToken() throws NoSuchAlgorithmException {
